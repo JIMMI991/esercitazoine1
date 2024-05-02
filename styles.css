@@ -1,0 +1,102 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+#logo {
+  width: auto;
+  height: 60px;
+}
+
+.linea {
+  width: 100%;
+  height: 1px;
+  border: none;
+  background-color: #FFEBBB;
+  margin-bottom: 0;
+}
+
+.descr {
+  background-color: #FDFBF1;
+  color: #004d4c;
+  text-align: center;
+  padding: 2px;
+}
+
+.descr span {
+  font-weight: bold;
+}
+
+.container-img {
+  text-align: center;
+  width: 80vh;
+  margin: 0 auto;
+}
+
+.container-img p {
+  text-align: left;
+  font-size: 15px;
+}
+
+.hero-img img {
+  border-radius: 10px;
+  width: 80vh;
+  height: 700px;
+}
+
+
+#ringr {
+  color: lightgray;
+  text-align: center;
+}
+
+.container-link {
+  font-size: 13px;
+  font-weight: 500;
+  color: #B5460F;
+  border-left: 1px solid #FFEBBB;
+  text-align: left;
+  width: 80vh;
+  margin: 40px auto;
+}
+
+.container-link p {
+  margin: 0;
+  margin-left: 15px;
+}
+
+.link {
+  margin-left: 15px;
+  color: #107777;
+}
+
+.container-ricetta {
+  width: 80vh;
+  margin: 0 auto;
+}
+
+.container-ricetta ul li {
+  margin: 20px;
+}
+
+.container-ricetta ol li {
+  margin: 20px;
+}
+
+.linea-blu {
+  height: 1px;
+  border: none;
+  background-color: #C4F3F2;
+}
+
+.container-footer {
+  text-align: left;
+  width: 80vh;
+  margin: 50px auto;
+}
